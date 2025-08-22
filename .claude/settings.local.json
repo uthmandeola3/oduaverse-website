@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(git add:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git mv:*)",
+      "Bash(cat:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(rm:*)",
+      "Bash(cd:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(copy \"C:\\Users\\Hp 2023\\Desktop\\OneVoice\\onevoice-privacy-policy.html\" privacy-policy.html)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
